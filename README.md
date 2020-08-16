@@ -22,5 +22,5 @@ The google doc templates are available here:
 ### Latex templates
 | Language      | Supervisor's  report | Reviewer's report  |
 | ------------- |----------------------|--------------------|
-| Czech         |[Download]()          | [Download]()       |
-| English       |[Download]()          | [Download]()|
+| Czech         |[Download](https://github.com/gestom/CTU_thesis_reports/blob/master/export/report-supervisor-cz.zip)          | [Download](https://github.com/gestom/CTU_thesis_reports/blob/master/export/report-reviewer-cz.zip)       |
+| English       |[Download](https://github.com/gestom/CTU_thesis_reports/blob/master/export/report-supervisor-en.zip)          | [Download](https://github.com/gestom/CTU_thesis_reports/blob/master/export/report-reviewer-en.zip)|
