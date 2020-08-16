@@ -13,4 +13,14 @@ The google doc templates are available here:
 | English       |[Download](https://docs.google.com/document/d/1Qb9JvNmaB9ZeQM4M2_SUTU_qaSMbEN-nHN-e8VyIajE/edit?usp=sharing)          | [Download](https://docs.google.com/document/d/1OyWXF1ukwGOb1ZaUwJBxGqsForVxIFdkYJXhsRuju4Y/edit?usp=sharing)       |
 
 
-### Docx (original) templates
+### Docx (original by CTU) templates
+| Language      | Supervisor's  report | Reviewer's report  |
+| ------------- |----------------------|--------------------|
+| Czech         |[Download](https://www.kos.cvut.cz/kos/images/CVUT/posudek-vedouci.docx)          | [Download](https://www.kos.cvut.cz/kos/images/CVUT/posudek-oponent.docx)       |
+| English       |[Download](https://www.kos.cvut.cz/kos/images/CVUT/posudek-vedouci_en.docx)          | [Download](https://www.kos.cvut.cz/kos/images/CVUT/posudek-oponent_en.docx)|
+
+### Latex templates
+| Language      | Supervisor's  report | Reviewer's report  |
+| ------------- |----------------------|--------------------|
+| Czech         |[Download]()          | [Download]()       |
+| English       |[Download]()          | [Download]()|
